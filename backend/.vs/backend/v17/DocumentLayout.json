@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nhlin\\AppData\\Roaming\\Microsoft\\UserSecrets\\2685d305-5733-48f8-a3b6-afe054374658\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8045FC-BFA9-4A14-9EDE-F7EE9F18C191}|Liechtop.WebAPI\\Liechtop.WebAPI.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8045FC-BFA9-4A14-9EDE-F7EE9F18C191}|Liechtop.WebAPI\\Liechtop.WebAPI.csproj|solutionrelative:liechtop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8045FC-BFA9-4A14-9EDE-F7EE9F18C191}|Liechtop.WebAPI\\Liechtop.WebAPI.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C8045FC-BFA9-4A14-9EDE-F7EE9F18C191}|Liechtop.WebAPI\\Liechtop.WebAPI.csproj|solutionrelative:liechtop.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349CEF11-E43B-4E80-A041-711196A4BEE2}|Liechtop.Application\\Liechtop.Application.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349CEF11-E43B-4E80-A041-711196A4BEE2}|Liechtop.Application\\Liechtop.Application.csproj|solutionrelative:liechtop.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDD8A93-3279-48A3-840B-CF22786DB45F}|Liechtop.Infrastructure\\Liechtop.Infrastructure.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.infrastructure\\testconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDD8A93-3279-48A3-840B-CF22786DB45F}|Liechtop.Infrastructure\\Liechtop.Infrastructure.csproj|solutionrelative:liechtop.infrastructure\\testconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDD8A93-3279-48A3-840B-CF22786DB45F}|Liechtop.Infrastructure\\Liechtop.Infrastructure.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDD8A93-3279-48A3-840B-CF22786DB45F}|Liechtop.Infrastructure\\Liechtop.Infrastructure.csproj|solutionrelative:liechtop.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDD8A93-3279-48A3-840B-CF22786DB45F}|Liechtop.Infrastructure\\Liechtop.Infrastructure.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDD8A93-3279-48A3-840B-CF22786DB45F}|Liechtop.Infrastructure\\Liechtop.Infrastructure.csproj|solutionrelative:liechtop.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8045FC-BFA9-4A14-9EDE-F7EE9F18C191}|Liechtop.WebAPI\\Liechtop.WebAPI.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8045FC-BFA9-4A14-9EDE-F7EE9F18C191}|Liechtop.WebAPI\\Liechtop.WebAPI.csproj|solutionrelative:liechtop.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8045FC-BFA9-4A14-9EDE-F7EE9F18C191}|Liechtop.WebAPI\\Liechtop.WebAPI.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.webapi\\liechtop.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C8045FC-BFA9-4A14-9EDE-F7EE9F18C191}|Liechtop.WebAPI\\Liechtop.WebAPI.csproj|solutionrelative:liechtop.webapi\\liechtop.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6291991-FFF9-40BB-A43E-A052898BCD7F}|Liechtop.Shared\\Liechtop.Shared.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.shared\\liechtop.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6291991-FFF9-40BB-A43E-A052898BCD7F}|Liechtop.Shared\\Liechtop.Shared.csproj|solutionrelative:liechtop.shared\\liechtop.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8045FC-BFA9-4A14-9EDE-F7EE9F18C191}|Liechtop.WebAPI\\Liechtop.WebAPI.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C8045FC-BFA9-4A14-9EDE-F7EE9F18C191}|Liechtop.WebAPI\\Liechtop.WebAPI.csproj|solutionrelative:liechtop.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8045FC-BFA9-4A14-9EDE-F7EE9F18C191}|Liechtop.WebAPI\\Liechtop.WebAPI.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.webapi\\liechtop.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1C8045FC-BFA9-4A14-9EDE-F7EE9F18C191}|Liechtop.WebAPI\\Liechtop.WebAPI.csproj|solutionrelative:liechtop.webapi\\liechtop.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349CEF11-E43B-4E80-A041-711196A4BEE2}|Liechtop.Application\\Liechtop.Application.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349CEF11-E43B-4E80-A041-711196A4BEE2}|Liechtop.Application\\Liechtop.Application.csproj|solutionrelative:liechtop.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349CEF11-E43B-4E80-A041-711196A4BEE2}|Liechtop.Application\\Liechtop.Application.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349CEF11-E43B-4E80-A041-711196A4BEE2}|Liechtop.Application\\Liechtop.Application.csproj|solutionrelative:liechtop.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349CEF11-E43B-4E80-A041-711196A4BEE2}|Liechtop.Application\\Liechtop.Application.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349CEF11-E43B-4E80-A041-711196A4BEE2}|Liechtop.Application\\Liechtop.Application.csproj|solutionrelative:liechtop.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDD8A93-3279-48A3-840B-CF22786DB45F}|Liechtop.Infrastructure\\Liechtop.Infrastructure.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.infrastructure\\liechtop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFDD8A93-3279-48A3-840B-CF22786DB45F}|Liechtop.Infrastructure\\Liechtop.Infrastructure.csproj|solutionrelative:liechtop.infrastructure\\liechtop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353B3E00-D688-42B8-B933-9C1CEA7CBBD9}|Liechtop.Domain\\Liechtop.Domain.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.domain\\entities\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353B3E00-D688-42B8-B933-9C1CEA7CBBD9}|Liechtop.Domain\\Liechtop.Domain.csproj|solutionrelative:liechtop.domain\\entities\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353B3E00-D688-42B8-B933-9C1CEA7CBBD9}|Liechtop.Domain\\Liechtop.Domain.csproj|d:\\university\\seft-study\\my project\\liechtopshop\\backend\\liechtop.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353B3E00-D688-42B8-B933-9C1CEA7CBBD9}|Liechtop.Domain\\Liechtop.Domain.csproj|solutionrelative:liechtop.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Liechtop.Shared.csproj",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Shared\\Liechtop.Shared.csproj",
+              "RelativeDocumentMoniker": "Liechtop.Shared\\Liechtop.Shared.csproj",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Shared\\Liechtop.Shared.csproj",
+              "RelativeToolTip": "Liechtop.Shared\\Liechtop.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T05:33:09.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Liechtop.WebAPI\\Program.cs",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.WebAPI\\Program.cs",
+              "RelativeToolTip": "Liechtop.WebAPI\\Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAewIwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:37:34.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.WebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Liechtop.WebAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.WebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Liechtop.WebAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:36:51.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Liechtop.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Liechtop.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:35:13.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Liechtop.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Liechtop.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:32:36.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Liechtop.Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Liechtop.Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:31:22.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Liechtop.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Infrastructure\\Liechtop.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Liechtop.Infrastructure\\Liechtop.Infrastructure.csproj",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Infrastructure\\Liechtop.Infrastructure.csproj",
+              "RelativeToolTip": "Liechtop.Infrastructure\\Liechtop.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T03:28:11.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Liechtop.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Liechtop.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T03:43:35.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\nhlin\\AppData\\Roaming\\Microsoft\\UserSecrets\\2685d305-5733-48f8-a3b6-afe054374658\\secrets.json",
+              "ToolTip": "C:\\Users\\nhlin\\AppData\\Roaming\\Microsoft\\UserSecrets\\2685d305-5733-48f8-a3b6-afe054374658\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T03:45:21.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestConnection.cs",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Infrastructure\\TestConnection.cs",
+              "RelativeDocumentMoniker": "Liechtop.Infrastructure\\TestConnection.cs",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Infrastructure\\TestConnection.cs",
+              "RelativeToolTip": "Liechtop.Infrastructure\\TestConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:45:22.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Liechtop.WebAPI.http",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.WebAPI\\Liechtop.WebAPI.http",
+              "RelativeDocumentMoniker": "Liechtop.WebAPI\\Liechtop.WebAPI.http",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.WebAPI\\Liechtop.WebAPI.http",
+              "RelativeToolTip": "Liechtop.WebAPI\\Liechtop.WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-01T03:38:15.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Liechtop.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Liechtop.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T03:43:28.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Liechtop.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Liechtop.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:22:29.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Liechtop.WebAPI.csproj",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.WebAPI\\Liechtop.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Liechtop.WebAPI\\Liechtop.WebAPI.csproj",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.WebAPI\\Liechtop.WebAPI.csproj",
+              "RelativeToolTip": "Liechtop.WebAPI\\Liechtop.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T05:33:09.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Liechtop.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Liechtop.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:21:34.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Liechtop.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Liechtop.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:20:09.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductVariant.cs",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Domain\\Entities\\ProductVariant.cs",
+              "RelativeDocumentMoniker": "Liechtop.Domain\\Entities\\ProductVariant.cs",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Domain\\Entities\\ProductVariant.cs",
+              "RelativeToolTip": "Liechtop.Domain\\Entities\\ProductVariant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:19:12.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Liechtop.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\University\\Seft-study\\My Project\\LiechtopShop\\backend\\Liechtop.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Liechtop.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:18:45.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

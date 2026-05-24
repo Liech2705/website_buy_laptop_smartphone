@@ -1,0 +1,6 @@
+@Liechtop.WebAPI_HostAddress = http://localhost:5012
+
+GET {{Liechtop.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

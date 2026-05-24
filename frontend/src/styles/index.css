@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  /* Primary color scale */
+  --color-primary-50:  #eff6ff;
+  --color-primary-100: #dbeafe;
+  --color-primary-200: #bfdbfe;
+  --color-primary-300: #93c5fd;
+  --color-primary-400: #60a5fa;
+  --color-primary-500: #3b82f6;
+  --color-primary-600: #2563eb;
+  --color-primary-700: #1d4ed8;
+  --color-primary-800: #1e40af;
+  --color-primary-900: #1e3a8a;
+  --color-primary-950: #172554;
+
+  /* Accent color scale */
+  --color-accent-50:  #fdf4ff;
+  --color-accent-100: #fae8ff;
+  --color-accent-200: #f5d0fe;
+  --color-accent-300: #f0abfc;
+  --color-accent-400: #e879f9;
+  --color-accent-500: #d946ef;
+  --color-accent-600: #c026d3;
+  --color-accent-700: #a21caf;
+  --color-accent-800: #86198f;
+  --color-accent-900: #701a75;
+
+  /* Surface (dark UI) scale */
+  --color-surface-50:  #020617;
+  --color-surface-100: #0f172a;
+  --color-surface-200: #1e293b;
+  --color-surface-300: #334155;
+  --color-surface-400: #475569;
+  --color-surface-500: #64748b;
+  --color-surface-600: #94a3b8;
+  --color-surface-700: #cbd5e1;
+  --color-surface-800: #e2e8f0;
+  --color-surface-900: #f1f5f9;
+
+  /* Font family */
+  --font-display: 'Inter', sans-serif;
+}
+
+body {
+  background-color: #020617; /* slate-950 */
+  color: #e2e8f0;            /* slate-200 */
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom Scrollbar */
+.custom-scrollbar::-webkit-scrollbar { width: 6px; }
+.custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+.custom-scrollbar::-webkit-scrollbar-thumb { background: #334155; border-radius: 10px; }
+.custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #475569; }
+
+/* Admin Form Utilities */
+.admin-form-label {
+  display: block;
+  font-size: 11px;
+  font-weight: 900;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  margin-bottom: 0.75rem;
+  margin-left: 0.25rem;
+  opacity: 0.9;
+}
+
+.admin-form-input {
+  width: 100%;
+  background-color: rgba(30, 41, 59, 0.4);  /* surface-200/40 */
+  border: 1px solid rgba(30, 41, 59, 0.5);  /* surface-200/50 */
+  border-radius: 1rem;
+  padding: 1rem 1.5rem;
+  color: white;
+  font-size: 0.875rem;
+  font-weight: 500;
+  outline: none;
+  transition: all 0.2s;
+}
+
+.admin-form-input::placeholder {
+  color: #94a3b8;
+  opacity: 0.8;
+}
+
+.admin-form-input:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.5);
+}
+
+.admin-form-select {
+  width: 100%;
+  background-color: rgba(30, 41, 59, 0.4);
+  border: 1px solid rgba(30, 41, 59, 0.5);
+  border-radius: 1rem;
+  padding: 1rem 1.5rem;
+  color: white;
+  font-weight: 700;
+  outline: none;
+  appearance: none;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.admin-form-select:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.5);
+}
+
+.admin-form-btn-primary {
+  background-color: #2563eb;
+  color: white;
+  font-weight: 900;
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  transition: all 0.2s;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.75rem;
+  box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.2);
+}
+
+.admin-form-btn-primary:hover {
+  background-color: #3b82f6;
+}
+
+.admin-form-btn-primary:active {
+  transform: scale(0.95);
+}
+
+.admin-form-btn-secondary {
+  background-color: #1e293b;
+  color: white;
+  font-weight: 900;
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  transition: all 0.2s;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.75rem;
+}
+
+.admin-form-btn-secondary:hover {
+  background-color: #334155;
+}
+
+.admin-form-btn-secondary:active {
+  transform: scale(0.95);
+}
+
+/* Glassmorphism Cards */
+.admin-card {
+  background-color: rgba(15, 23, 42, 0.4);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-radius: 2rem;
+  border: 1px solid rgba(30, 41, 59, 0.3);
+  padding: 2rem;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+/* High Contrast helpers */
+.text-value-bright {
+  color: white;
+  font-weight: 700;
+}
+
+.text-label-dim {
+  color: #64748b;
+  font-weight: 500;
+}
